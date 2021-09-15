@@ -33,7 +33,7 @@ public class AppTest
      */
     public void testApp()
     {
-    	System.out.println("Hello World! This is a JUnit test!");
+    	System.out.println("Hello World! This is a JUnit test wow!");
         assertTrue( false );
     }
 }
